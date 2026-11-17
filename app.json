@@ -49,7 +49,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/NoxxOP/ShrutiMusic",
+      "value": "https://github.com/father143/ShrutiMusic",
       "required": false
     },
     "STRING_SESSION": {
@@ -79,32 +79,12 @@
     },
     "SUPPORT_GROUP": {
       "description": "Your support group link",
-      "value": "https://t.me/ShrutiSupportChat",
+      "value": "https://t.me/+nGivaB43gUhhOGQ1",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel link",
-      "value": "https://t.me/ShrutiBots",
-      "required": false
-    },
-    "INSTAGRAM": {
-      "description": "Your Instagram profile link or Any Link",
-      "value": "https://instagram.com/yaduwanshi_nand",
-      "required": false
-    },
-    "YOUTUBE": {
-      "description": "Your YouTube channel link or Any Link",
-      "value": "https://youtube.com/@NandEditz",
-      "required": false
-    },
-    "GITHUB": {
-      "description": "Your GitHub profile link or Any Link",
-      "value": "https://github.com/NoxxOP",
-      "required": false
-    },
-    "DONATE": {
-      "description": "Link where people can support/donate or Any Link",
-      "value": "http://bit.ly/3NITa3G",
+      "value": "https://t.me/RPShyariwold",
       "required": false
     },
     "START_IMG_URL": {
